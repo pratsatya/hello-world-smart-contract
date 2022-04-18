@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/prats/near hack/spring 2022/hello-world-smart-contract/contract/target/wasm32-unknown-unknown/release/build/typenum-9189d3063a12b7f9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/prats/near hack/spring 2022/hello-world-smart-contract/contract/target/wasm32-unknown-unknown/release/build/typenum-9189d3063a12b7f9/out/op.rs
