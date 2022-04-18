@@ -13,7 +13,7 @@ Submission deadline: April 17th
 
 Step 1 Sol:
 - In CLI, run near login
-- Then run, near call test1-nearspring.prats.testnet greet_user '{"user_input": "pikachu"}'  --accountId YOUR_ACCOUNT_HERE
+- Then run, near call test1-nearspring.prats.testnet greet_user '{"user_input": YOUR_NAME}'  --accountId YOUR_ACCOUNT_HERE
 
 
 
